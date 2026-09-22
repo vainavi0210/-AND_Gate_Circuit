@@ -15,7 +15,7 @@ It gives HIGH output only when both inputs are HIGH.
 
 ## Project Setup
 
-![AND Gate Circuit](and-gate.jpg)
+![AND Gate Circuit](and.jpeg)
 
 ## Procedure
 1. Place the AND gate IC on the breadboard.
